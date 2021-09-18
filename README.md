@@ -1,5 +1,6 @@
 # IMPLEMENTASI UML CLASS DIAGRAM
 ## KELOMPOK 2 TUGAS PBO
+## link [`github`](https://github.com/yogiandaru98/kelompok2_implemantasiuml)
 
 * YOGI ANDARU
 * 2017051062
