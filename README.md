@@ -46,9 +46,9 @@
 #
 ## REFRENCE
 #### Dalam pembuatan program ini kami menambahkan class MultiInputPanel yang mana class tersebut child class tambahan dari library JOptionPane.
-##
+###
 #### Class MultiInputPanel memiliki fungsi yaitu dapat memunculkan panel program seperti JOptionPane akan tetapi perbedaannya yaitu class ini dapat memiliki beberapa input dalam satu panel.
-
+###
 ###  SOURCE MultiInputPanel
 
 >- `Sumber library` : [KLIK DISINI](http://www.cs.gordon.edu/courses/cs211/AddressBookExample/Code.html)
