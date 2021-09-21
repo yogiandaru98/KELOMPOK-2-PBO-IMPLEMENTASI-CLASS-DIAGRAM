@@ -10,7 +10,7 @@
 ## LAMPIRAN
 ![pict1](PICT/1.jpeg)
 ![pict2](PICT/2.jpeg)
-![pict3](PICT/3.jpeg)
+
 ![pict4](PICT/4.jpeg)
 ![pict5](PICT/5.jpeg)
 ![pict6](PICT/6.jpeg)
