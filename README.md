@@ -14,6 +14,7 @@
 ![pict4](PICT/4.jpeg)
 ![pict5](PICT/5.jpeg)
 ![pict6](PICT/6.jpeg)
+![pict3](PICT/3.jpeg)
 ![pict7](PICT/7.jpeg)
 ## CLASS STRUCTURE
 > Agar dapat melihat class diagram di bawah terlebih dahulu download [`MERMAID`](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiI0pbxo__yAhUDSX0KHRo9CSgQFnoECAMQAQ&url=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fmermaid-diagrams%2Fphfcghedmopjadpojhmmaffjmfiakfil&usg=AOvVaw3XUo81gMc0iadYNU_ZxFRU) extension pada browser.
